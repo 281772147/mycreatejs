@@ -1,0 +1,35 @@
+CACHE MANIFEST
+#version 1.0
+CACHE:
+./js/easeljs-0.8.1.min.js
+./js/soundjs-0.6.1.min.js
+./js/preloadjs-0.6.1.min.js
+./js/bat2.js
+./js/coulds.js
+./js/wizard2.js
+./js/game.js
+index.html
+barcode.jpg
+carrot.png
+could1.png
+could2.png
+could3.png
+could4.png
+moon.png
+peas.png
+s2.png
+shengbo.png
+sky.png
+tomato.png
+ver.png
+w.png
+./sound/bg.m4a
+./sound/Invite.m4a
+./sound/Loose.m4a
+./sound/Spawn.m4a
+./sound/Slime.m4a
+
+FALLBACK:
+error.html
+
+
